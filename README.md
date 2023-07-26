@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @abhayd08
+- 👀 I’m interested in web development, technology, and software engineering.
+- 🌱 I’m currently learning about backend development, databases, and server-side technologies to become a full-stack developer.
+- 💞️ I’m looking to collaborate on web development projects that involve frontend and backend technologies. I'm also open to contributing to open-source projects.
+- 📫 You can reach me via email at abhaydt.08@gmail.com. Feel free to connect with me on LinkedIn as well: https://linkedin.com/in/abhayd08
