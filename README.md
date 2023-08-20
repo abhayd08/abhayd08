@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhayd08
+- 👋 Hey, I’m Abhay Dixit
 - 👀 I’m interested in web development, technology, and software engineering.
 - 🌱 I’m currently learning about backend development, databases, and server-side technologies to become a full-stack developer.
 - 💞️ I’m looking to collaborate on web development projects that involve frontend and backend technologies. I'm also open to contributing to open-source projects.
