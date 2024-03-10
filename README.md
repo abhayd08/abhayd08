@@ -13,16 +13,3 @@
 <img align="right" height="150" src="https://www.abhaydixit.in/assets/favicon-2.png"  />
 
 ###
-
-###
-
-<div align="left">
-  <a href="https://www.abhaydixit.in" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=abhaydixit.in&logo=visualstudio&label=&color=f31260&logoColor=f31260&labelColor=&style=for-the-badge" height="35" alt="Portfolio"  />
-  </a>
-</div>
-
-###
-
-
-###
