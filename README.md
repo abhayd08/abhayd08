@@ -17,8 +17,5 @@
 - 📫 You can reach me via email at abhaydt.08@gmail.com.
   
 - Feel free to connect with me on LinkedIn as well: https://linkedin.com/in/abhayd08
-  
-
-<img align="right" height="150" src="https://www.abhaydixit.in/assets/favicon-2.png"  />
 
 ###
